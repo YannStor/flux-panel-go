@@ -1,7 +1,7 @@
 # flux-panel 转发面板（哆啦A梦转发面板）
 
 ## 全新面板已迁移至 [
-  https://github.com/NiuStar/network-panel
+  network-panel
   ](https://github.com/NiuStar/network-panel)
 
 ---
